@@ -1,1 +1,2 @@
 # Event-Management
+Core concepts
